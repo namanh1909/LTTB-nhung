@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="0">
-  <PLACEMENT>2c0000000000000001000000ffffffffffffffffffffffffffffffffbd0000001a000000e706000010040000</PLACEMENT>
-  <WINDOW type="default" module="STARTUP"/>
+  <PLACEMENT>2c0000000000000001000000fffffffffffffffffffffffffffffffff3000000000000000f070000ee030000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI/>
